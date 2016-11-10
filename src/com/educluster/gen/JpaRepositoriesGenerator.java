@@ -22,7 +22,7 @@ public class JpaRepositoriesGenerator {
         sb.append("package ");
         sb.append(Properties.MASTER_PKG);
         sb.append(".");
-        sb.append(Properties.REPO);
+        sb.append(Properties.REPOSITORY);
         sb.append(";import org.springframework.data.jpa.repository.JpaRepository;");
         sb.append("import org.springframework.data.rest.core.annotation.RepositoryRestResource;");
         sb.append("import com.radicalz.persistence.");
