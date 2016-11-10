@@ -1,0 +1,1 @@
+package com.radicalz.persistence.repo;import org.springframework.data.jpa.repository.JpaRepository;import org.springframework.data.rest.core.annotation.RepositoryRestResource;import com.radicalz.persistence.model.ItemType;@RepositoryRestResource(collectionResourceRel = "itemtypes", path = "itemtypes")public interface ItemTypeRepository extends JpaRepository<ItemType, Integer>{}

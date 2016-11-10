@@ -1,0 +1,1 @@
+package com.radicalz.persistence.repo;import org.springframework.data.jpa.repository.JpaRepository;import org.springframework.data.rest.core.annotation.RepositoryRestResource;import com.radicalz.persistence.model.Request;@RepositoryRestResource(collectionResourceRel = "requests", path = "requests")public interface RequestRepository extends JpaRepository<Request, Integer>{}

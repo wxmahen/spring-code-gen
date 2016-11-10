@@ -1,0 +1,1 @@
+package com.radicalz.persistence.repo;import org.springframework.data.jpa.repository.JpaRepository;import org.springframework.data.rest.core.annotation.RepositoryRestResource;import com.radicalz.persistence.model.DefTask;@RepositoryRestResource(collectionResourceRel = "deftasks", path = "deftasks")public interface DefTaskRepository extends JpaRepository<DefTask, Integer>{}
