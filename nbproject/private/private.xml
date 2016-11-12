@@ -2,12 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/F:/PRO/EduCluster/Github/SpringCodeGen/src/com/educluster/gen/JpaModelWrapperConverter.java</file>
-            <file>file:/F:/PRO/EduCluster/Github/SpringCodeGen/src/com/educluster/ctrl/FileManager.java</file>
-            <file>file:/F:/PRO/EduCluster/Github/SpringCodeGen/src/com/educluster/gen/JpaRepositoriesGenerator.java</file>
-            <file>file:/F:/PRO/EduCluster/Github/SpringCodeGen/src/com/educluster/run/Starter.java</file>
-            <file>file:/F:/PRO/EduCluster/Github/SpringCodeGen/src/com/educluster/props/Properties.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
