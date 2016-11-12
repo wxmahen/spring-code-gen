@@ -23,8 +23,10 @@ public class JpaModelWrapperConverter {
         content = content.replace("char ", "Char ");
         content = content.replace("short ", "Short ");
         content = content.replace("int ", "Integer ");
+        content = content.replace("long ", "Long ");
         content = content.replace("float ", "Float ");
         content = content.replace("double ", "Double ");
+        content = content.replace("Long serialVersion", "long serialVersion");
         return content;
     }
 }
